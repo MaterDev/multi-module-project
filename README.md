@@ -1,6 +1,6 @@
 ![](coverImage.png)
 
-# multi-module-project
+# Multi-Modal Project
 
 - Setting up Modules
 - Modularizing build.sbt
